@@ -1,0 +1,1035 @@
+@media (max-width: 1200px) {
+/* header */
+    .header-r, .header-r-dark {
+        font-size: 35px;
+    }
+
+/* home */
+    .origin, .origin-dark {
+        font-size: 30px;
+    }
+
+/* about */
+    .about-content, .about-content-dark {
+        padding: 30px 50px 30px 50px;
+    }
+
+    .about-me h1 {
+        padding-top: 20px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        font-size: 18px;
+    }
+
+    .about-medsos-link {
+        padding-top: 10px;
+    }
+
+/* experience */
+    .study-content {
+        margin-top: 20px;
+        margin-left: 20px;
+        padding-bottom: 10px;
+    }
+
+    .work-content {
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .study-h3 {
+        font-size: 23px;
+    }
+
+    .study-h4 {
+        font-size: 22px;
+    }
+
+    .study-p {
+        font-size: 20px;
+    }
+
+/* business */
+    .img1, .img2, .img3 {
+        width: 350px;
+        height: 250px;
+    }
+
+/* contact */
+    .contact-form, .contact-form-dark {
+        margin-top: 60px;
+        margin-bottom: 10px;
+        padding: 20px 70px 0 70px;
+    }
+
+    .contact-btn {
+        margin-top: 10px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+/* header */
+
+    .menu-btn {
+        font-size: 18px;
+    }
+
+/* home */
+    .home, .home-dark {
+        width: 838px;
+        height: 620px;
+    }
+
+    .home-content h1 {
+        font-size: 55px;
+    }
+
+    .cover-img img {
+        width: 420px;
+        height: 480px;
+    }
+    
+/* about */
+    .about {
+        height: 620px;
+    }
+    
+    .about-content, .about-content-dark {
+        padding: 0 40px;
+        padding-bottom: 30px;
+    }
+
+    .about-img img {
+        margin-top: 30px;
+    }
+    
+    .about-me h1 {
+        font-size: 60px;
+    }
+    
+    .aboutMe, .aboutMe-dark {
+        padding-right: 10px;
+        font-size: 18px;
+    }
+    
+    .about-medsos-link {
+        padding-top: 0;
+    }
+    
+/* experience */
+    .experience, .experience-dark {
+        height: 620px;
+        width: 1038px;
+    }
+
+    .study-content, .study-content-dark {
+        margin-top: 10px;
+        margin-left: 20px;
+        padding-bottom: 10px;
+    }
+
+    .work-content, .work-content-dark {
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+
+    .study-h3 {
+        font-size: 23px;
+    }
+
+    .study-h4 {
+        font-size: 22px;
+    }
+
+    .study-p {
+        font-size: 20px;
+    }
+
+/* business */
+    .business, .business-dark {
+        height: 620px;
+        width: 1038px;
+    }
+    
+    .img1, .img2, .img3 {
+        width: 320px;
+        height: 250px;
+    }
+    
+    /* contact */
+    .contact, .contact-dark {
+        height: 620px;
+        width: 1038px;
+    }
+
+    .contact-form, .contact-form-dark {
+        padding: 30px 50px;
+        margin-top: 60px;
+    }
+    
+    .contact-btn {
+        margin: 13px auto;
+    }
+    
+/* footer */
+    .footer, .footer-dark {
+        width: 1038px;
+    }
+}
+
+@media (max-width: 768px) {
+/* header */
+    .header, .header-dark {
+        height: 70px;
+        left: 8%;
+        width: 880px;
+    }
+
+    .header-r, .header-r-dark {
+        font-size: 35px;
+    }
+
+    .menu-btn {
+        font-size: 22px;
+    }
+
+/* home */
+    .home, .home-dark {
+        height: 825px;
+    }
+    
+    .home-content h1 {
+        font-size: 70px;
+    }
+
+    .origin, .origin-dark {
+        font-size: 30px;
+    }
+
+    .start-btn {
+        font-size: 25px;
+        margin: 30px 0 20px 0;
+    }
+    
+/* about */
+    .about {
+        height: 825px;
+    }
+
+    .about-content, .about-content-dark {
+        width: 900px;
+        height: 650px;
+        margin-top: 45px;
+    }
+
+    .about-me h1 {
+        padding-top: 80px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        font-size: 20px;
+    }
+    
+    .about-img img {
+        margin-top: 80px;
+    }
+
+    .about-medsos-link {
+        padding-top: 20px;
+    }
+    
+/* experience */
+    .experience, .experience-dark {
+        height: 825px;
+    }
+
+    .edu-content {
+        flex-direction: column;
+    }
+
+    .study-content, .study-content-dark {
+        margin: 20px 40px 20px 40px;
+    }
+
+    .study-h2 {
+        font-size: 42px;
+    }
+
+    .study-h3 {
+        font-size: 26px;
+    }
+
+    .study-h4, .study-p {
+        font-size: 22px;
+    }
+
+    .work-content, .work-content-dark {
+        margin: 0 40px;
+    }
+
+/* business */
+    .business, .business-dark {
+        height: 1720px;
+    }
+
+    .business-content {
+        padding-bottom: 30px;
+    }
+
+    .images-content {
+        flex-direction: column;
+    }
+
+    .image-product {
+        padding-top: 40px;
+    }
+
+    .img1, .img2, .img3 {
+        width: 500px;
+        height: 400px;
+    }
+
+    .image-product h3 {
+        font-size: 25px;
+    }
+
+/* contact */
+    .contact, .contact-dark {
+        height: 825px;
+    }
+
+    .contact-form, .contact-form-dark {
+        height: 560px;
+        padding: 40px 70px;
+        margin-top: 120px;
+    }
+
+    .contact-btn {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 680px) {
+/* header */
+    .header, .header-dark {
+        height: 80px;
+        left: 5%;
+        width: 940px;
+    }
+
+    .header-r, .header-r-dark {
+        font-size: 40px;
+    }    
+
+/* home */
+    .home, .home-dark {
+        height: 931px;
+    }
+
+    .home-content h1 {
+        font-size: 80px;
+    }
+
+    .origin, .origin-dark {
+        font-size: 35px;
+    }
+
+    .start-btn {
+        font-size: 30px;
+    }
+
+    .home-medsos-link {
+        font-size: 25px;
+    }
+
+/* about */
+    .about {
+        height: 931px;
+    }
+
+    .about-content, .about-content-dark {
+        margin-top: 55px;
+        height: 770px;
+    }
+
+    .about-img img {
+        margin-top: 150px;
+    }
+
+    .about-me h1 {
+        font-size: 65px;
+    }
+
+    .about-me h2 {
+        font-size: 30px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        font-size: 22px;
+    }
+
+/* experience */
+    .experience, .experience-dark {
+        height: 931px;
+    }
+
+    .exp-title {
+        padding-top: 100px;
+    }
+
+    .study-content, .study-content-dark {
+        height: 430px;
+    }
+
+    .study-h2 {
+        font-size: 50px;
+    }
+
+    .study-h3 {
+        font-size: 30px;
+    }
+
+    .study-h4, .study-p {
+        font-size: 23px;
+    }
+    
+    .work-content, .work-content-dark {
+        height: 170px;
+    }
+
+/* contact */
+    .contact, .contact-dark {
+        height: 931px;
+    }
+
+    .contact-form, .contact-form-dark {
+        height: 600px;
+        margin-top: 150px;
+    }
+
+/* footer */
+    .footer, .footer-dark {
+        height: 80px;
+    }
+
+    .footer-item p {
+        font-size: 18px;
+    }
+
+    .footer-h3, .footer-h3-dark {
+        font-size: 33px;
+    }
+
+}
+
+@media (max-width: 425px) {
+/* header */
+    .header, .header-dark {
+        height: 120px;
+        left: 0;
+        width: 1040px;
+        border-radius: 0;
+    }
+
+    .header-r, .header-r-dark {
+        font-size: 60px;
+    }
+
+    .menu-bar i, .menu-bar-dark i {
+        display: block;
+        font-size: 40px;
+        margin-right: 50px;
+    }
+
+    #click:checked ~ .menu-bar i:before,
+    #click:checked ~ .menu-bar-dark i:before {
+        content: "\f00d";
+    }
+
+    .header-l, .header-l-dark {
+        position: fixed;
+        top: 100px;
+        left: -110%;
+        height: 1400px;
+        width: 100%;
+        flex-direction: column;
+        justify-content: space-around;
+        text-align: center;
+        transition: all 0.5s ease;
+    }
+
+    #click:checked ~ .header-l,
+    #click:checked ~ .header-l-dark {
+        left: 0%;
+    }
+
+    .menu-btn {
+        padding-right: 0;
+        font-size: 35px;
+    }
+
+    span.fa.fa-adjust {
+        font-size: 40px;
+    }
+
+/* home */
+    .home, .home-dark {
+        height: 1500px;
+        width: 840px;
+    }
+
+    .home-content, .home-content-dark {
+        text-align: center;
+        margin-top: 100px;
+    }
+
+    .home-content h1 {
+        font-size: 140px;
+    }
+
+    .origin, .origin-dark {
+        font-size: 55px;
+    }
+
+    .start-btn {
+        font-size: 60px;
+        margin: 300px 0 80px 0;
+    }
+
+    .home-medsos-link {
+        font-size: 50px;
+        padding-left: 30px;
+    }
+
+    .cover-img {
+        display: none;
+    }
+
+/* about */
+    .about {
+        height: 2400px;
+    }
+
+    .about-content, .about-content-dark {
+        display: inline-block;
+        height: 2200px;
+    }
+
+    .about-img img {
+        width: 700px;
+        height: 1000px;
+        margin: 80px 100px;
+    }
+
+    .about-me {
+        text-align: center;
+    }
+
+    .about-me h1 {
+        padding-top: 0;
+        font-size: 90px;
+    }
+
+    .about-me h2 {
+        font-size: 48px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        padding-right: 0;
+        padding-top: 50px;
+        font-size: 38px;
+    }
+
+    .about-medsos-link {
+        display: none;
+    }
+
+/* experience */
+    .experience, .experience-dark {
+        height: 1660px;
+        width: 1040px;
+    }
+
+    .exp-title {
+        font-size: 80px;
+        padding-top: 150px;
+    }
+
+    .study-content, .study-content-dark {
+        margin-top: 50px;
+        height: 840px;
+        text-align: center;
+    }
+
+    .study-h2 {
+        font-size: 60px;
+    }
+
+    .study-h3 {
+        font-size: 40px;
+    }
+
+    .study-h4 {
+        font-size: 40px;
+        padding-top: 30px;
+    }
+
+    .study-p {
+        font-size: 38px;
+        padding: 10px 0;
+    }
+
+    .work-content, .work-content-dark {
+        text-align: center;
+        height: 350px;
+    }
+
+/* business */
+    .business, .business-dark {
+        height: 2400px;
+    }
+
+    .business-content h1 {
+        font-size: 80px;
+        padding-top: 50px;
+    }
+
+    .business-content h3 {
+        font-size: 50px;
+    }
+
+    .img1, .img2, .img3 {
+        width: 700px;
+        height: 550px;
+    }
+
+    .image-product h3 {
+        font-size: 40px;
+    }
+
+/* contact */
+    .contact, .contact-dark {
+        height: 1500px;
+        width: 1040px;
+    }
+    
+    .contact-form, .contact-form-dark {
+        height: 1200px;
+        padding: 40px 100px;
+        margin-top: 160px;
+    }
+
+    .contact-title {
+        font-size: 60px;
+    }
+
+    .address {
+        font-size: 38px;
+    }
+
+    input {
+        width: 600px;
+        height: 100px;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    textarea {
+        width: 600px;
+        height: 500px;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .contact-btn {
+        height: 80px;
+        width: 70%;
+        font-size: 30px;
+    }
+
+/* footer */
+    .footer, .footer-dark {
+        height: 340px;
+        width: 1040px;
+    }
+
+    .footer-item {
+        flex-direction: column-reverse;
+    }
+
+    .footer-item p {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    .footer-h3, .footer-h3-dark {
+        font-size: 50px;
+        padding: 35px;
+    }
+
+    .footer-medsos-link {
+        font-size: 30px;
+    }
+
+}
+@media (max-width: 400px) {
+/* header */
+    .header, .header-dark {
+        height: 120px;
+        left: 0;
+        width: 1040px;
+    }
+
+    .header-r, .header-r-dark {
+        font-size: 60px;
+    }
+
+    .header-l, .header-l-dark {
+        height: 1500px;
+    }
+
+/* home */
+    .home, .home-dark {
+        height: 1590px;
+        width: 840px;
+    }
+
+    .home-content, .home-content-dark {
+        text-align: center;
+        margin: 40px auto;
+    }
+
+    .home-content h1 {
+        font-size: 140px;
+    }
+
+    .origin, .origin-dark {
+        font-size: 55px;
+    }
+
+    .start-btn {
+        font-size: 60px;
+        margin: 300px 0 80px 0;
+    }
+
+    .home-medsos-link {
+        font-size: 50px;
+        padding-left: 30px;
+    }
+
+    .cover-img {
+        display: none;
+    }
+
+/* about */
+    .about {
+        height: 2400px;
+    }
+
+    .about-content, .about-content-dark {
+        display: inline-block;
+        height: 2200px;
+    }
+
+    .about-img img {
+        width: 700px;
+        height: 1000px;
+        margin: 80px 100px;
+    }
+
+    .about-me {
+        text-align: center;
+    }
+
+    .about-me h1 {
+        padding-top: 0;
+        font-size: 90px;
+    }
+
+    .about-me h2 {
+        font-size: 40px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        padding-right: 0;
+        padding-top: 50px;
+        font-size: 35px;
+    }
+
+    .about-medsos-link {
+        display: none;
+    }
+
+/* experience */
+    .experience, .experience-dark {
+        height: 1590px;
+        width: 1040px;
+    }
+
+    .exp-title {
+        font-size: 80px;
+        padding-top: 150px;
+    }
+
+    .study-content, .study-content-dark {
+        margin-top: 50px;
+        height: 780px;
+        text-align: center;
+    }
+
+    .study-h2 {
+        font-size: 60px;
+    }
+
+    .study-h3 {
+        font-size: 40px;
+    }
+
+    .study-h4 {
+        font-size: 40px;
+        padding-top: 30px;
+    }
+
+    .study-p {
+        font-size: 35px;
+        padding: 10px 0;
+    }
+
+    .work-content, .work-content-dark {
+        text-align: center;
+        height: 350px;
+    }
+
+/* business */
+    .business, .business-dark {
+        height: 2400px;
+    }
+
+    .business-content h1 {
+        font-size: 80px;
+        padding-top: 50px;
+    }
+
+    .business-content h3 {
+        font-size: 50px;
+    }
+
+    .img1, .img2, .img3 {
+        width: 700px;
+        height: 550px;
+    }
+
+    .image-product h3 {
+        font-size: 40px;
+    }
+
+/* contact */
+    .contact, .contact-dark {
+        height: 1600px;
+        width: 1040px;
+    }
+    
+    .contact-form, .contact-form-dark {
+        height: 1200px;
+        padding: 40px 100px;
+        margin-top: 200px;
+    }
+
+    .contact-title {
+        font-size: 60px;
+    }
+
+    .address {
+        font-size: 35px;
+    }
+
+    input {
+        width: 600px;
+        height: 100px;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    textarea {
+        width: 600px;
+        height: 500px;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .contact-btn {
+        height: 80px;
+        width: 70%;
+        font-size: 30px;
+    }
+
+/* footer */
+    .footer, .footer-dark {
+        height: 340px;
+        width: 1040px;
+    }
+
+    .footer-item {
+        flex-direction: column-reverse;
+    }
+
+    .footer-item p {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    .footer-h3, .footer-h3-dark {
+        font-size: 50px;
+        padding: 35px;
+    }
+
+    .footer-medsos-link {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 375px) {
+/* header */
+    .header-l, .header-l-dark {
+        height: 1600px;
+    }
+
+/* home */
+    .home, .home-dark {
+        height: 1700px;
+    }
+
+/* experience */
+    .experience, .experience-dark {
+        height: 1700px;
+    }
+
+    .study-content, .study-content-dark {
+        margin-top: 40px;
+        height: 900px;
+    }
+
+    .study-h2 {
+        font-size: 60px;
+    }
+
+    .study-h3 {
+        font-size: 45px;
+    }
+
+    .study-h4 {
+        font-size: 45px;
+        padding-top: 30px;
+    }
+
+    .study-p {
+        font-size: 40px;
+        padding: 10px 0;
+    }
+
+/* contact */
+    .contact, .contact-dark {
+        height: 1700px;
+    }
+
+    .address {
+        font-size: 35px;
+    }
+
+}
+
+@media (max-width: 350px) {
+/* header */
+    .header, .header-dark {
+        height: 130px;
+        left: 0;
+        width: 1040px;
+    }
+
+    .header-r, .header-r-dark {
+        font-size: 65px;
+    }
+
+    .header-l, .header-l-dark {
+        height: 1720px;
+    }
+
+/* home */
+    .home, .home-dark {
+        height: 1820px;
+        width: 840px;
+    }
+
+/* about */
+    .about {
+        height: 2500px;
+    }
+
+    .about-content, .about-content-dark {
+        height: 2300px;
+    }
+
+    .about-me h2 {
+        font-size: 45px;
+    }
+
+    .aboutMe, .aboutMe-dark {
+        padding-right: 0;
+        padding-top: 50px;
+        font-size: 40px;
+    }
+
+/* experience */
+    .experience, .experience-dark {
+        height: 1820px;
+        width: 1040px;
+    }
+
+    .study-content, .study-content-dark {
+        margin-top: 50px;
+        height: 950px;
+        text-align: center;
+    }
+
+    .study-h2 {
+        font-size: 60px;
+    }
+
+    .study-h3 {
+        font-size: 45px;
+    }
+
+    .study-h4 {
+        font-size: 45px;
+        padding-top: 30px;
+    }
+
+    .study-p {
+        font-size: 40px;
+        padding: 10px 0;
+    }
+
+/* contact */
+    .address {
+        font-size: 35px;
+    }
+
+/* footer */
+    .footer-item p {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+
+    .footer-h3, .footer-h3-dark {
+        font-size: 55px;
+        padding: 35px;
+    }
+
+    .footer-medsos-link {
+        font-size: 35px;
+    }
+}
+
