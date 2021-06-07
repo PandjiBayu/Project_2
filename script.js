@@ -109,16 +109,16 @@ var darkcontact = document.getElementById("contact-form").className === "contact
 
 // footer
 var darkfooter = document.getElementById("footer").className === "footer";
-    if (darkcontact) {
+    if (darkfooter) {
         document.getElementById("footer").className = "footer-dark";
-    } else if (!darkcontact) {
+    } else if (!darkfooter) {
         document.getElementById("footer").className = "footer";
     }
 
 var darkfooter = document.getElementById("footer-h3").className === "footer-h3";
-    if (darkcontact) {
+    if (darkfooter) {
         document.getElementById("footer-h3").className = "footer-h3-dark";
-    } else if (!darkcontact) {
+    } else if (!darkfooter) {
         document.getElementById("footer-h3").className = "footer-h3";
     }
 
