@@ -452,7 +452,7 @@
         position: fixed;
         top: 100px;
         left: -110%;
-        height: 1400px;
+        height: 2000px;
         width: 100%;
         flex-direction: column;
         justify-content: space-around;
@@ -687,7 +687,7 @@
     }
 
     .header-l, .header-l-dark {
-        height: 1500px;
+        height: 2000px;
     }
 
 /* home */
@@ -894,7 +894,7 @@
 @media (max-width: 375px) {
 /* header */
     .header-l, .header-l-dark {
-        height: 1600px;
+        height: 2000px;
     }
 
 /* home */
@@ -954,7 +954,7 @@
     }
 
     .header-l, .header-l-dark {
-        height: 1720px;
+        height: 2000px;
     }
 
 /* home */
