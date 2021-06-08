@@ -157,6 +157,10 @@
         width: 320px;
         height: 250px;
     }
+
+    .text {
+        padding: 10px;
+    }
     
     /* contact */
     .contact, .contact-dark {
@@ -284,6 +288,15 @@
 
     .image-product {
         padding-top: 40px;
+    }
+
+    .business-link {
+        top: 50%;
+    }
+
+    .text {
+        padding: 15px;
+        font-size: 20px;
     }
 
     .img1, .img2, .img3 {
@@ -604,6 +617,10 @@
         width: 700px;
         height: 550px;
     }
+    
+    .text {
+        font-size: 25px;
+    }
 
     .image-product h3 {
         font-size: 40px;
@@ -821,6 +838,10 @@
         height: 550px;
     }
 
+    .text {
+        font-size: 30px;
+    }
+
     .image-product h3 {
         font-size: 40px;
     }
@@ -1010,6 +1031,11 @@
     .study-p {
         font-size: 40px;
         padding: 10px 0;
+    }
+
+/* business */
+    .text {
+        font-size: 30px;
     }
 
 /* contact */

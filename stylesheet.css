@@ -288,6 +288,53 @@ body {
     justify-content: space-around;
 }
 
+.image-product {
+    position: relative;
+}
+
+.img1, .img2, .img3 {
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.business-link {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.image-product:hover .img1,
+.image-product:hover .img2,
+.image-product:hover .img3 {
+    opacity: 0.3;
+}
+
+.image-product:hover .business-link {
+    opacity: 1;
+}
+
+.text {
+    background-color: #03588a;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    border: 2px solid #03588a;
+    border-radius: 10px;
+}
+
+.text:hover {
+    background: none;
+    color: #03588a;
+    cursor: pointer;
+    transition: all 0.5s; 
+}
+
 .image-product img{
     border-radius: 30px;
     margin-bottom: 20px;
@@ -302,6 +349,7 @@ body {
     transform: scale(1.10);
     transition: all 0.3s ease-in-out;
 }
+
 
 /* contact */
 .contact {
