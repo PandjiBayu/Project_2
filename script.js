@@ -84,12 +84,12 @@ var darkexperience = document.getElementById("work-content").className === "work
         document.getElementById("work-content").className = "work-content";
     }
 
-// business
-var darkbusiness = document.getElementById("business").className === "business";
-    if (darkbusiness) {
-        document.getElementById("business").className = "business-dark";
-    } else if (!darkbusiness) {
-        document.getElementById("business").className = "business";
+// project
+var darkproject = document.getElementById("project").className === "project";
+    if (darkproject) {
+        document.getElementById("project").className = "project-dark";
+    } else if (!darkproject) {
+        document.getElementById("project").className = "project";
     }
 
 // contact
